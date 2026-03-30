@@ -1,5 +1,5 @@
 # EJEMPLO 2 - SWIFTUI
-Segunda app de iOS hecha en la Práctica 4.
+Segunda app de iOS hecha en la Práctica 5.
 
 ## Funcionamiento
 Mismo caso que el **EJEMPLO 1**.
