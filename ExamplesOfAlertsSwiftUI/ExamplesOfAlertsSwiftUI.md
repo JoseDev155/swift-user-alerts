@@ -2,7 +2,6 @@
 Primera app de iOS hecha en la Práctica 4.
 
 ## Funcionamiento
-
 En el `ContentView.swift`, pueden ejecutarse las alertas una a una:
 
 ```swift
