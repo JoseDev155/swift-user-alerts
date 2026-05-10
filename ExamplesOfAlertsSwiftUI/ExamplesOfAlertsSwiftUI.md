@@ -1,5 +1,5 @@
 # EJEMPLO 1 - SWIFTUI
-Primera app de iOS hecha en la Práctica 4.
+Primera app de iOS hecha en la Práctica 5.
 
 ## Funcionamiento
 En el `ContentView.swift`, pueden ejecutarse las alertas una a una:
